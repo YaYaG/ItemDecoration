@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="timeline_item_offset_left">48dp</dimen>
+    <dimen name="timeline_item_node_radius">6dp</dimen>
+
+    <dimen name="timeline_item_line">1dp</dimen>
+    <dimen name="timeline_item_head_height">32dp</dimen>
+</resources>
