@@ -1,5 +1,4 @@
-# ItemDecoration
-# ItemDecoration
+#RecyclerView 下划线
 ### 垂直线性布局
 
 ```
@@ -16,3 +15,4 @@ mRecyclerView.addItemDecoration(mDecor);
 mRecyclerView.setAdapter(new LineAdapter());
 ```
 <div><img src='https://github.com/YaYaG/ItemDecoration/imgs/grid.jpg' width="300px" style='border: #f1f1f1 solid 1px'/></div>
+
