@@ -14,5 +14,5 @@ mRecyclerView.setLayoutManager(new GridLayoutManager(this, 3));
 mRecyclerView.addItemDecoration(mDecor);
 mRecyclerView.setAdapter(new LineAdapter());
 ```
-<div><img src='https://github.com/YaYaG/ItemDecoration/tree/yayaG/imgs/grid.jpg' width="300px" style='border: #f1f1f1 solid 1px'/></div>
+<div><img src='https://github.com/YaYaG/ItemDecoration/blob/yayaG/imgs/grid.jpg' width="300px" style='border: #f1f1f1 solid 1px'/></div>
 
