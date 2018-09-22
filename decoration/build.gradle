@@ -32,7 +32,7 @@ publish {
     repoName = 'dream'           //bintray仓库名
     userOrg = 'wangjinya'           //bintray注册的用户名
     groupId = 'com.dream'            //compile引用时的第1部分groupId
-    artifactId = 'ItemDecoration'       //compile引用时的第2部分项目名
+    artifactId = 'ItemDecoratiogn'       //compile引用时的第2部分项目名
     publishVersion = '1.0.0'       //compile引用时的第3部分版本号
     desc = 'This is a simple demo ItemDecoration for Android'
     website = 'https://github.com/wyshikai837/CustomTab'
