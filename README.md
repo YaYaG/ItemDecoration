@@ -1,6 +1,6 @@
 
 #RecyclerView 下划线
-<div><img src='https://github.com/YaYaG/ItemDecoration/blob/yayaG/imgs/grid.gif width="300px" style='border: #f1f1f1 solid 1px'/></div>
+<div><img src="https://github.com/YaYaG/ItemDecoration/blob/master/imgs/grid.gif" width="300px" style='border: #f1f1f1 solid 1px'/></div>
 
 ### 垂直线性布局
 
