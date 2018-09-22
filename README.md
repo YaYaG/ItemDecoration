@@ -9,6 +9,10 @@ mRecyclerView.addItemDecoration(mDecor);
 ```
 ### 网格布局功能
 ```
+构造方法
+public GridLineItemDecoration(Context context ,int lineColor, int spanCount, int dividerWidthDp) {....}
+```
+```
 mDecor = new GridLineItemDecoration(this,Color.GRAY, 3, 2);
 mRecyclerView.setLayoutManager(new GridLayoutManager(this, 3));
 mRecyclerView.addItemDecoration(mDecor);
